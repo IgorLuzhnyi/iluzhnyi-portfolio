@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/iluzhnyi-portfolio/static/js/main.7dc26b0b.js",
+    "main.js": "/iluzhnyi-portfolio/static/js/main.66fa097b.js",
     "index.html": "/iluzhnyi-portfolio/index.html",
-    "main.7dc26b0b.js.map": "/iluzhnyi-portfolio/static/js/main.7dc26b0b.js.map"
+    "main.66fa097b.js.map": "/iluzhnyi-portfolio/static/js/main.66fa097b.js.map"
   },
   "entrypoints": [
-    "static/js/main.7dc26b0b.js"
+    "static/js/main.66fa097b.js"
   ]
 }
