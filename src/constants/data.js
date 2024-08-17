@@ -8,14 +8,6 @@ export const projects = [
     techs: "React, redux toolkit, MUI",
   },
   {
-    title: "Scream's Website",
-    ghLink: "https://github.com/IgorLuzhnyi/react-scary-website/",
-    website: "https://igorluzhnyi.github.io/react-scary-website/",
-    description:
-      "Simple training website built with React. Technologies used here: react-router-dom, React hooks.",
-    techs: "React",
-  },
-  {
     title: "Authorisation Form",
     ghLink: "https://github.com/IgorLuzhnyi/styled-components-form/",
     website: "https://igorluzhnyi.github.io/styled-components-form/",
@@ -27,7 +19,15 @@ export const projects = [
     title: "Star Wars Twitter",
     ghLink: "https://github.com/IgorLuzhnyi/redux-posts",
     website: "https://igorluzhnyi.github.io/redux-posts/",
-    description: "A funny page with Twitter-like posts from SW universe.",
+    description:
+      "A funny page with Twitter-like posts from SW universe. I practiced my Redux skills here",
     techs: "React, Redux",
   },
 ];
+
+export const myIntro = `I began my coding journey in 2020. Having finished my Udemy courses
+            in HTML/CSS/JS, I started to learn React/Redux and currently am
+            upgrading my skills by building websites. At the moment, I am developing a Ticket Tracker app using react-hook-form and React Context`;
+
+export const CVlink =
+  "https://drive.google.com/file/d/1e3PfFF6Ff5Eo2t5GiqM94cLBMm-Zmx4s/view?usp=sharing";

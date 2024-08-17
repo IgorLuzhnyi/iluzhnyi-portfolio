@@ -2,6 +2,7 @@ import { IntroStyled } from "./IntroStyled";
 import { BsInstagram } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 import { BsLinkedin } from "react-icons/bs";
+import { myIntro } from "../../constants/data";
 
 const Intro = () => {
   return (
@@ -11,11 +12,7 @@ const Intro = () => {
           <p className="intro-descr">Hi, my name is</p>
           <h1 className="heading"> Ihor Luzhnyi.</h1>
           <h1 className="heading-secondary">I study Frontend Development.</h1>
-          <p className="intro-descr">
-            I began my coding journey in 2020. Having finished my Udemy courses
-            in HTML/CSS/JS, I started to learn React/Redux and currently am
-            upgrading my skills by building websites.
-          </p>
+          <p className="intro-descr">{myIntro}</p>
         </div>
         <div className="media-links">
           <div className="media-icon">

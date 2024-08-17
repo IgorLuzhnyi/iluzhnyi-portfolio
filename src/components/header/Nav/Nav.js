@@ -3,6 +3,7 @@ import { NavStyled } from "./NavStyled";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
 import { useState, useEffect } from "react";
+import { CVlink } from "../../../constants/data";
 
 const Nav = () => {
   const [navIcon, setNavIcon] = useState(<GiHamburgerMenu />);
@@ -53,12 +54,7 @@ const Nav = () => {
             Works
           </Link>
         </li>
-        <a
-          href="https://drive.google.com/file/d/1imHOJ-HogBgT5k-lC579Q1Hxa-oEbekP/view?usp=sharing"
-          rel="noreferrer"
-          target="_blank"
-          id="cv-button"
-        >
+        <a href={CVlink} rel="noreferrer" target="_blank" id="cv-button">
           CV
         </a>
       </ul>
