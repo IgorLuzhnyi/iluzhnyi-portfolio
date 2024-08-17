@@ -83,7 +83,7 @@ const Nav = () => {
             </Link>
           </li>
           <a
-            href="https://drive.google.com/file/d/1imHOJ-HogBgT5k-lC579Q1Hxa-oEbekP/view?usp=sharing"
+            href={CVlink}
             rel="noreferrer"
             target="_blank"
             id="cv-button"
