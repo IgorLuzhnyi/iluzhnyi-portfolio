@@ -25,9 +25,7 @@ export const projects = [
   },
 ];
 
-export const myIntro = `I began my coding journey in 2020. Having finished my Udemy courses
-            in HTML/CSS/JS, I started to learn React/Redux and currently am
-            upgrading my skills by building websites. At the moment, I am developing a Ticket Tracker app using react-hook-form and React Context`;
+export const myIntro = `I learn Frontend Development and constantly improving my skills. I have a few simple pet-projects by now and a month of commercial experience. Currently, I am working on a Ticket Tracker app using react-hook-form and React Context`;
 
 export const CVlink =
   "https://drive.google.com/file/d/1e3PfFF6Ff5Eo2t5GiqM94cLBMm-Zmx4s/view?usp=sharing";

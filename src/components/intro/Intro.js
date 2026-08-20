@@ -26,7 +26,7 @@ const Intro = () => {
           </div>
           <div className="media-icon">
             <a
-              href="https://www.instagram.com/thwth_sop/"
+              href="https://www.instagram.com/i_l_991/"
               target="_blank"
               rel="noreferrer"
             >
