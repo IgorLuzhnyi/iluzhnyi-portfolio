@@ -28,4 +28,4 @@ export const projects = [
 export const myIntro = `I learn Frontend Development and constantly improving my skills. I have a few simple pet-projects by now and a month of commercial experience. Currently, I am working on a Ticket Tracker app using react-hook-form and React Context`;
 
 export const CVlink =
-  "https://drive.google.com/file/d/1e3PfFF6Ff5Eo2t5GiqM94cLBMm-Zmx4s/view?usp=sharing";
+  "https://drive.google.com/file/d/1fz_HOtXU-V3-eIZ-YbnYEOnFbv2uMafP/view?usp=drive_link";
